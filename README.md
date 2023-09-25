@@ -1,0 +1,1 @@
+A markdown is a markup language that allows us to style a text document by making use of formatting techniques like headings,emphasis,lists,images and links.
